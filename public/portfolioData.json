@@ -1,0 +1,70 @@
+{
+  "main": {
+    "name": "Laufey Guðnadóttir",
+    "occupation": "Graphic Designer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "My love of graphic design started at an early age.  The family tradition of crafting our own Christmas cards is where it all started, having all the glitter and pens in the world, being able to do what I wanted, fired up passion for design and encouraged me to take every art class I could throughout my education. As I got older, I also got interested in photography. Photographing interesting buildings, landscape and environment has interested me for a long time, whereas photographing the northern lights is my favourite.",
+    "email": "laufeyg96@gmail.com",
+    "phone": "847-2052",
+    "address": {
+      "street": "Moss Ln E",
+      "city": "Manchester",
+      "state": "(Rusholme)",
+      "zip": "M14 4LB"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://mobile.twitter.com/laufeygud",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://linkedin.com/in/laufey-guðnadóttir-a2b06b146",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/laufeygudnadottir?igshid=mp5mvc3dlco",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Agnar is cool!",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "1.jpg"
+      },
+      {
+        "title": "That is a nice wheel!",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "3.jpg"
+      },
+      {
+        "title": "Big tree",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "4.jpg"
+      },
+      {
+        "title": "Beautiful car!",
+        "category": "A React based resume website template",
+        "image": "5.jpg"
+      },
+      {
+        "title": "Coca-Cola is my drink",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "2.png"
+      }
+    ]
+  }
+}
